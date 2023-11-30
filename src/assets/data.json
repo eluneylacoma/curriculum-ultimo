@@ -1,0 +1,34 @@
+{
+	"DatosPersonales": {
+		"nombre": "Eluney",
+		"apellido": "Lacoma",
+		"email": "lacoelu@gmail.com",
+		"dni": "45.107.173",
+		"perfil": "Actualmente soy estudiante de una carrera técnica,ya cursando mi ultimo año. a lo largo de estos años adquirí bastantes conocimientos sobre varios sistemas,como por ejemplo: programación,hardware, software,etc.Algunos temas me cuestan un poco pero siempre estoy dispuesta a aprender y dar lo mejor de mi"
+
+	},
+	"InformacionAcademica": [{
+			"colegio": "Escuela 713",
+			"fechaEgreso": "cursando el ultimo año",
+			"titulo": "Tecnico en informática profesional y personal"
+		}
+
+	],
+	"Habilidades": [{
+			"Habilidad": "experencia en edicion de videos"
+		},
+		{
+			"Habilidad": "hablo 2 idiomas: español(lenguaje principal) e ingles (nivel medio)"
+		},
+		{
+			"Habilidad": "tengo conocimientos en programación(JavaScript,HTML,Boostrap,CSS)"
+		},
+		{
+			"Habilidad": "Curso introducción a la ciberseguridad de cisco"
+		},
+		{
+			"Habilidad": "Curso Robotica e impresion de aprende prgramando" 
+		}
+	]
+
+}

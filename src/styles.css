@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(56, 209, 158);
+}
+
+#mifoto{ 
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+    margin-bottom: 25px;
+    margin-top: 55px;
+
+}
+h2{
+    width: 20px;
+    height: 15px;
+    margin-left: 48%;
+    margin-bottom: 5px;
+    color: rgb(31,17,155);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{ 
+    color: rgb(31, 17, 155);
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 4px solid rgb(27, 65, 71)
+}
+
+fieldset{
+    margin-left: 25px;
+    padding-inline-start: 25px;
+    text-align: center;
+    border: 4px solid rgb(27, 65, 71);
+}
+
+p{ 
+    color: black;
+    margin-left: 25px;
+    font-size: 20px;
+    font-family:Geneva;
+}
+
+section{
+    margin-left: 25px;
+    margin-bottom: 25px;
+    padding-inline-start: 25px;
+    text-align: center;
+    border: 4px solid rgb(27, 65, 71)
+}
+
+#logoescuela{
+    width: 75px;
+    height: 75px;
+}
+
+footer{
+    text-align: center;
+    margin-left: 10%;
+    padding: 5%;
+}
